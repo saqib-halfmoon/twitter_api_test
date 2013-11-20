@@ -1,2 +1,2 @@
-Test_Tweeter_API
+Test_Twitter_API
 ==========
